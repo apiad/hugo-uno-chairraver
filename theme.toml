@@ -14,8 +14,3 @@ features = ["blog", "pages"]
     name = "Fredrik Loch"
     homepage = "http://fredrikloch.me"
     repo = "https://github.com/SenjinDarashiva/hugo-uno"
-
-[original]
-    author =  "daleanthony"
-    homepage = "http://daleanthony.com/"
-    repo = "https://github.com/daleanthony/Uno"
